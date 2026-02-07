@@ -22,7 +22,7 @@
   },
   "restrictions": {
     "overrideClientCommonConfig": false,
-    "isSaddleRequired": true,
+    "isSaddleRequired": false,
     "blacklistedDimensions": []
   },
   "speedStat": {

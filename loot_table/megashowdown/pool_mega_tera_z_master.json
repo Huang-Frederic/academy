@@ -1,0 +1,31 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:megashowdown/mega_stone",
+          "weight": 1
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:megashowdown/tera_shard",
+          "weight": 1
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:megashowdown/z_crystal_type",
+          "weight": 1
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:cobblemon/pokeballs_t4",
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:megashowdown/silvally_memory",
+          "weight": 1
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:megashowdown/rotom_form",
+          "weight": 1
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:megashowdown/arceus_plate",
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

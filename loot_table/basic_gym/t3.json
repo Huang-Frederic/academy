@@ -174,7 +174,7 @@
       "entries": [
         {
           "type": "minecraft:empty",
-          "weight": 19
+          "weight": 82
         },
         {
           "type": "loot_table",
@@ -189,7 +189,7 @@
       "entries": [
         {
           "type": "minecraft:empty",
-          "weight": 70
+          "weight": 39
         },
         {
           "type": "loot_table",
@@ -204,7 +204,7 @@
       "entries": [
         {
           "type": "minecraft:empty",
-          "weight": 70
+          "weight": 39
         },
         {
           "type": "loot_table",
@@ -219,7 +219,7 @@
       "entries": [
         {
           "type": "minecraft:empty",
-          "weight": 70
+          "weight": 39
         },
         {
           "type": "loot_table",
@@ -234,7 +234,7 @@
       "entries": [
         {
           "type": "minecraft:empty",
-          "weight": 70
+          "weight": 39
         },
         {
           "type": "loot_table",

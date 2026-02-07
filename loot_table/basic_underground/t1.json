@@ -126,82 +126,7 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "academy:cobblemon/pokeballs_t4",
-          "weight": 1.0
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:air",
-          "weight": 49.0
-        }
-      ],
-      "rolls": {
-        "type": "minecraft:uniform",
-        "max": 1.0,
-        "min": 1.0
-      }
-    },
-    {
-      "bonus_rolls": 0.0,
-      "entries": [
-        {
-          "type": "loot_table",
-          "value": "academy:cobblemon/fossils",
-          "weight": 27.0
-        },
-        {
-          "type": "minecraft:item",
-          "name": "academy:shiny_fossil",
-          "weight": 1.0
-        },
-        {
-          "type": "minecraft:item",
-          "name": "academy:ha_fossil",
-          "weight": 1.0
-        },
-        {
-          "type": "minecraft:item",
-          "name": "academy:max_iv_fossil",
-          "weight": 1.0
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:air",
-          "weight": 420.0
-        }
-      ],
-      "rolls": {
-        "type": "minecraft:uniform",
-        "max": 1.0,
-        "min": 1.0
-      }
-    },
-    {
-      "bonus_rolls": 0.0,
-      "entries": [
-        {
-          "type": "loot_table",
-          "value": "academy:radgyms/keys",
-          "weight": 1.0
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:air",
-          "weight": 29.0
-        }
-      ],
-      "rolls": {
-        "type": "minecraft:uniform",
-        "max": 1.0,
-        "min": 1.0
-      }
-    },
-    {
-      "bonus_rolls": 0.0,
-      "entries": [
-        {
-          "type": "loot_table",
-          "value": "academy:simpletms/tm_items",
+          "value": "academy:cobblemon/fossils_pool",
           "weight": 1.0
         },
         {
@@ -221,33 +146,13 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "academy:pokeblocks/common",
-          "weight": 10.0
-        },
-        {
-          "type": "loot_table",
-          "value": "academy:pokeblocks/uncommon",
-          "weight": 5.0
-        },
-        {
-          "type": "loot_table",
-          "value": "academy:pokeblocks/rare",
-          "weight": 3.0
-        },
-        {
-          "type": "loot_table",
-          "value": "academy:pokeblocks/epic",
-          "weight": 1.0
-        },
-        {
-          "type": "loot_table",
-          "value": "academy:pokeblocks/legendary",
+          "value": "academy:radgyms/keys",
           "weight": 1.0
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:air",
-          "weight": 580.0
+          "weight": 49.0
         }
       ],
       "rolls": {
@@ -261,13 +166,58 @@
       "entries": [
         {
           "type": "loot_table",
+          "value": "academy:simpletms/tm_items",
+          "weight": 1.0
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:air",
+          "weight": 29.0
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 1.0,
+        "min": 1.0
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:pokeblocks/common",
+          "weight": 60.0
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:pokeblocks/uncommon",
+          "weight": 30.0
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:pokeblocks/rare",
+          "weight": 4.0
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:pokeblocks/epic",
+          "weight": 3.0
+        },
+        {
+          "type": "loot_table",
+          "value": "academy:pokeblocks/legendary",
+          "weight": 2.0
+        },
+        {
+          "type": "loot_table",
           "value": "academy:pokeblocks/shiny",
           "weight": 1.0
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:air",
-          "weight": 1023.0
+          "weight": 2900.0
         }
       ],
       "rolls": {
@@ -287,7 +237,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:air",
-          "weight": 49.0
+          "weight": 99.0
         }
       ],
       "rolls": {
@@ -301,7 +251,7 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "academy:megashowdown/mega_stone",
+          "value": "academy:megashowdown/pool_mega_tera_z_master",
           "weight": 1.0
         },
         {
@@ -321,87 +271,7 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "academy:megashowdown/tera_shard",
-          "weight": 1.0
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:air",
-          "weight": 49.0
-        }
-      ],
-      "rolls": {
-        "type": "minecraft:uniform",
-        "max": 1.0,
-        "min": 1.0
-      }
-    },
-    {
-      "bonus_rolls": 0.0,
-      "entries": [
-        {
-          "type": "loot_table",
-          "value": "academy:megashowdown/z_crystal_type",
-          "weight": 1.0
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:air",
-          "weight": 49.0
-        }
-      ],
-      "rolls": {
-        "type": "minecraft:uniform",
-        "max": 1.0,
-        "min": 1.0
-      }
-    },
-    {
-      "bonus_rolls": 0.0,
-      "entries": [
-        {
-          "type": "loot_table",
-          "value": "academy:megashowdown/silvally_memory",
-          "weight": 1.0
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:air",
-          "weight": 49.0
-        }
-      ],
-      "rolls": {
-        "type": "minecraft:uniform",
-        "max": 1.0,
-        "min": 1.0
-      }
-    },
-    {
-      "bonus_rolls": 0.0,
-      "entries": [
-        {
-          "type": "loot_table",
-          "value": "academy:megashowdown/rotom_form",
-          "weight": 1.0
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:air",
-          "weight": 49.0
-        }
-      ],
-      "rolls": {
-        "type": "minecraft:uniform",
-        "max": 1.0,
-        "min": 1.0
-      }
-    },
-    {
-      "bonus_rolls": 0.0,
-      "entries": [
-        {
-          "type": "loot_table",
-          "value": "academy:megashowdown/arceus_plate",
+          "value": "academy:megashowdown/pool_forms",
           "weight": 1.0
         },
         {
@@ -427,7 +297,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:air",
-          "weight": 19.0
+          "weight": 29.0
         }
       ],
       "rolls": {

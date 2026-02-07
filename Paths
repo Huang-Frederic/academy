@@ -1,0 +1,3 @@
+config : config/
+event : datapacks/Academy/data/enhancedcelestials/enhancedcelestials/lunar/event
+loot_table : datapacks/Academy/data/academy/loot_table

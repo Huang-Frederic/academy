@@ -171,7 +171,7 @@
       "entries": [
         {
           "type": "minecraft:empty",
-          "weight": 19
+          "weight": 55
         },
         {
           "type": "loot_table",
@@ -186,7 +186,7 @@
       "entries": [
         {
           "type": "minecraft:empty",
-          "weight": 30
+          "weight": 24
         },
         {
           "type": "loot_table",
@@ -201,7 +201,7 @@
       "entries": [
         {
           "type": "minecraft:empty",
-          "weight": 30
+          "weight": 24
         },
         {
           "type": "loot_table",
@@ -216,7 +216,7 @@
       "entries": [
         {
           "type": "minecraft:empty",
-          "weight": 30
+          "weight": 24
         },
         {
           "type": "loot_table",
@@ -231,7 +231,7 @@
       "entries": [
         {
           "type": "minecraft:empty",
-          "weight": 30
+          "weight": 24
         },
         {
           "type": "loot_table",
@@ -293,10 +293,6 @@
           "type": "loot_table",
           "value": "academy:academy/booster_pack",
           "weight": 1
-        },
-        {
-          "type": "minecraft:empty",
-          "weight": 2
         }
       ],
       "rolls": 1.0
