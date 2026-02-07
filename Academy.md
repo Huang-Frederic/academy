@@ -1,6 +1,24 @@
 # Hisshiden - Journal des Modifications Serveur
 
-> Cobblemon Academy Legacy - Serveur optimise pour ~10 joueurs
+> Cobblemon Academy Legacy - Serveur optimisé pour ~10 joueurs
+
+--- 
+
+## Objectif du Serveur : Devenir Champion d'Arène (Enfin, c'est qu'une idée...)
+
+Chaque joueur doit construire sa propre arène, avec un maximum de **2 types**. Une fois que tout le monde aura assez progressé, on fera un événement **Championat*.
+
+### Règles
+
+- Chaque arène sera **jugée sur son esthétique**.
+- Des **combats** auront lieu entre les joueurs.
+- Chaque joueur doit préparer **2 équipes** :
+    1. **Équipe d'Arène** : une équipe qui respecte le thème/type de ton arène.
+    2. **Équipe Challenger** : une équipe fixe utilisée pour défier les arènes des autres joueurs et gagner leurs badges.
+
+### Spawn Monument
+
+Un monument au spawn affiche quel joueur est le Champion pour chaque type. Demandez à un OP de mettre à jour vos types.
 
 ---
 
