@@ -1,0 +1,58 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:blue_orb",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:silver_wing",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:tidal_bell",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{legendary:\"articuno\"}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:clear_bell",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{legendary:\"suicune\"}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:fini_totem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:scroll_of_water",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:old_sea_map",
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

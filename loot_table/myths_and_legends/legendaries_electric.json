@@ -1,0 +1,48 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:plasma_tablet",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:tidal_bell",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{legendary:\"zapdos\"}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:reveal_glass",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{legendary:\"thundurus\"}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:koko_totem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:zeraoras_thunderclaw",
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

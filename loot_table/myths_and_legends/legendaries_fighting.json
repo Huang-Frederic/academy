@@ -1,0 +1,26 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:kubfus_band",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:sacred_sword",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:ironwill_sword",
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

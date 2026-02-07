@@ -1,0 +1,43 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:rainbow_wing",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:reveal_glass",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{legendary:\"tornadus\"}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:clear_bell",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{legendary:\"raikou\"}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:eon_ticket",
+          "weight": 2
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

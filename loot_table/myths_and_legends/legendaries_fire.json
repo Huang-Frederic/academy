@@ -1,0 +1,53 @@
+{
+  "type": "loot_table",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:red_orb",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:magma_stone",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:tidal_bell",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{legendary:\"moltres\"}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:clear_bell",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{legendary:\"entei\"}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:steam_valve",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "myths_and_legends:prism_bottle",
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

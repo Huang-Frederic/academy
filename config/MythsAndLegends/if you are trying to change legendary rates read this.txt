@@ -1,0 +1,29 @@
+The loot_tables_config.json is not how you change the rates of legendary items appearing in chests and gym rewards!
+
+These rates can be changed in the "Academy" datapack in these directories,
+datapacks folder > Academy folder > data folder > academy folder > loot_table folder > basic/basic_gym/basic_underground folders
+
+Inside these three folders are different tiers of chests and the loot that they generate with. The chance of legendary items is determined by weights, with their entries looking like this:
+
+{
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "academy:myths_and_legends/legendaries",
+          "weight": 1.0
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:air",
+          "weight": 600.0
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+      }
+    }
+
+This loot table has a 1/601 chance of generating a legendary item. To make them more common, you'd want to reduce the "weight" of the "minecraft:air" entry. For example, changing the weight to 300.0 will make legendary items twice as common.
